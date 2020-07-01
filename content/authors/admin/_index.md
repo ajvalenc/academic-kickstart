@@ -1,6 +1,7 @@
 ---
 organizations:
   - name: University of Ottawa
+  - name: School of Electrical Engineering and Computer Science
     url: https://engineering.uottawa.ca/school-EECS
 superuser: true
 authors:
@@ -33,7 +34,7 @@ education:
   courses:
     - course: MSc in Electrical and Computer Engineering
       institution: University of Ottawa
-      year: 2016
+      year: 2020
     - course: BEng in Electronics and Automation
       institution: Escuela Superior Politecnica del Litoral
       year: 2016
