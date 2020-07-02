@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-- **April 5, 2020:** [MSc Thesis](publication/nafips20/) approved with minor revisions
+- **June 5, 2020:** [MSc Thesis](publication/nafips20/) approved with minor revisions
