@@ -7,7 +7,7 @@ superuser: true
 authors:
   - admin
 title: Angel J. Valencia
-role: MSc Student
+role: MASc Student
 avatar_filename: avatar.jpg
 bio: "I'm a master student doing research in robotics perception and
   manipulation. I'm also an open-source and self-hosted enthusiast who enjoys
@@ -36,10 +36,10 @@ social:
     link: https://www.linkedin.com/in/angel-j-valencia/
 education:
   courses:
-    - course: MSc in Electrical and Computer Engineering
+    - course: M.A.Sc. in Electrical and Computer Engineering
       institution: University of Ottawa
       year: 2020
-    - course: BEng in Electronics and Automation
+    - course: B.Eng. in Electronics and Automation
       institution: Escuela Superior Politecnica del Litoral
       year: 2016
 email: contact@angelvalencia.me
