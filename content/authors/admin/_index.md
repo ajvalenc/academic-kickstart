@@ -7,9 +7,9 @@ superuser: true
 authors:
   - admin
 title: Angel J. Valencia
-role: MASc Student
+role: PhD Student
 avatar_filename: avatar.jpg
-bio: "I'm a master student doing research in robotics perception and
+bio: "I'm a phd student doing research in robotics perception and
   manipulation. I'm also an open-source and self-hosted enthusiast who enjoys
   discovering new hardware and services that are easily accessible for everyone
   and privacy friendly."
@@ -47,5 +47,5 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am an upcoming PhD student (Fall 2020) of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the area of robotics, perception and learning. I'm currently working on deformable object manipulation. More broadly, my ambition is to build robotic systems that can interact autonomously in human environments. 
+I am a PhD student of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the area of robotics, perception and learning. I'm currently working on deformable object manipulation. More broadly, my ambition is to build robotic systems that can interact autonomously in human environments. 
 
