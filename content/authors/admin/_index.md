@@ -27,7 +27,7 @@ social:
     link: https://twitter.com/ajvalenc
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=Kr91VYEAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=v5-8vhYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/ajvalenc
