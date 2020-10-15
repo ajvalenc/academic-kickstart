@@ -1,7 +1,6 @@
 ---
 organizations:
   - name: University of Ottawa
-  - name: School of Electrical Engineering and Computer Science
     url: https://engineering.uottawa.ca/school-EECS
 superuser: true
 authors:
