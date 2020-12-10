@@ -50,4 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
+- **November 23, 2020:** New [paper](publication/valencia2020a/) accepted in Frontiers in Robotics and AI
 - **June 5, 2020:** [MASc Thesis](publication/valencia2020/) approved with minor revisions
