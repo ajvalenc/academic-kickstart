@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "800 King Edward Ave", city = "Ottawa", region = "ON", postcode = "K1N 6N5", country = "Canada", country_code = "CA"}
+address = {}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "45.4194", longitude = "-75.6785"}
 
 # Directions for visitors to locate you.
-directions = "Enter SITE Building and take the stairs to Lab 3035 on Floor 3"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -273,8 +273,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  api_key = "AIzaSyAJBuNL6Ws3MBYrA7S4hTQRke_0s7f5uQ8"
+  engine = 0
+  api_key = ""
   zoom = 15
 
 ############################

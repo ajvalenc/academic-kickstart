@@ -15,7 +15,7 @@ bio: "I'm a phd student doing research in robotics perception and
 interests:
   - Robotics
   - Manipulation
-  - Machine Perception
+  - Visual Computing
   - Artificial Intelligence
 social:
   - icon: envelope
@@ -26,7 +26,7 @@ social:
     link: https://twitter.com/ajvalenc
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=v5-8vhYAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=H_c-eSEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/ajvalenc
