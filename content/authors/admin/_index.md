@@ -46,5 +46,5 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the area of robotics, perception and learning. I'm currently working on deformable object manipulation. More broadly, my ambition is to build robotic systems that can interact autonomously in human environments. 
+I am a PhD student of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the areas of robotics, vision and machine learning. I'm currently working on deformable object manipulation. More broadly, my ambition is to build robotic systems that can interact autonomously in human environments. 
 
