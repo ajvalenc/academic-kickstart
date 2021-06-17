@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Angel Josue Valencia
+title: Angel Valencia
 role: PhD Student
 avatar_filename: avatar.jpg
 bio: "I'm a phd student doing research in robotics perception and
