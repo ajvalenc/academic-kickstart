@@ -16,7 +16,7 @@ interests:
   - Robotics
   - Manipulation
   - Visual Computing
-  - Artificial Intelligence
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
